@@ -1,0 +1,18 @@
+Hi {FNAME} ,{LNAME} :
+<br/>
+
+Welcome to Kentucky State Government Citizens, <br/>
+Your Account registration is almost completed.
+Please use below details to unlock your account. <br/>
+<br/>
+ 
+Temporary Password : {TEMP-PWD}<br/>
+<br/>
+
+<a href='http://localhost:9092/loadUnlockForm?email={EMAIL}'>
+
+Click here to Unlock your account</a><br/>
+<br/>
+
+Thanks & Regards,<br/>
+Kentucky State Government Team.<br/>

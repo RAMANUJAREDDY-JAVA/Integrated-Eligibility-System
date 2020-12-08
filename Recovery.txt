@@ -1,0 +1,14 @@
+Hi {FNAME} ,{LNAME} :
+<br/>
+
+Welcome to Kentucky State Government Ctizens,<br/>
+ Please find your password below.<br/>
+<br/>
+ 
+Password : {PWD}<br/>
+<br/>
+
+<br/>
+
+Thanks & Regards,<br/>
+Kentucky State Government Team.<br/>
